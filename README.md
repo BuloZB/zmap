@@ -12,7 +12,7 @@ on port 25 to find potential SMTP servers. With a
 [PF_RING](http://www.ntop.org/products/packet-capture/pf_ring/), ZMap can scan 
 the IPv4 address space in under 5 minutes.
 
-ZMap operates on GNU/Linux, Mac OS, and BSD. ZMap currently has fully implemented
+ZMap operates on GNU/Linux, Mac OS, and BSD. ZMap has fully implemented
 probe modules for TCP SYN scans, ICMP, DNS queries, UPnP, BACNET, and can send a
 large number of [UDP probes](https://github.com/zmap/zmap/blob/master/examples/udp-probes/README).
 If you are looking to do more involved scans (e.g., banner grab or TLS handshake), 
@@ -56,7 +56,7 @@ If you have questions, please first check our [FAQ](https://github.com/zmap/zmap
 Installation
 ------------
 
-The latest stable release of ZMap is [4.3.4](https://github.com/zmap/zmap/releases/tag/v4.3.4) and supports Linux, macOS, and
+The latest stable release of ZMap is [4.4.0](https://github.com/zmap/zmap/releases/tag/v4.4.0) and supports Linux, macOS, and
 BSD. See [INSTALL](INSTALL.md) for instructions on to install ZMap through a package manager or from source.
 
 Architecture
